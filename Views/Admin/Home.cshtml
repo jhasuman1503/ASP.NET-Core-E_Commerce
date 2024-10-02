@@ -1,0 +1,57 @@
+﻿@model E_Commerce_Website.Models.ProductCategoryViewModel
+
+@{
+    ViewBag.Title = "Admin Home";
+}
+
+<div class="container-fluid px-4">
+    <h2 class="mt-4 text-center text-uppercase" style="letter-spacing:4px">Product Dashboard</h2>
+</div>
+
+<div class="row mb-4">
+    <div class="col-md-12">
+        <nav class="navbar navbar-expand-lg navbar-light bg-light">
+            <a class="navbar-brand" href="#">Categories</a>
+            <div class="collapse navbar-collapse">
+                <ul class="navbar-nav mr-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" href="@Url.Action("Home", new { categoryId = (int?)null })">All Products</a>
+                    </li>
+                    @foreach (var category in Model.Categories)
+                    {
+                        <li class="nav-item">
+                            <a class="nav-link" href="@Url.Action("Home", new { categoryId = category.category_id })">
+                                @category.category_name
+                            </a>
+                        </li>
+                    }
+                </ul>
+            </div>
+        </nav>
+    </div>
+</div>
+
+<div class="row">
+    @foreach (var product in Model.Products)
+    {
+        <div class="col-md-3 mb-4">
+            <div class="card">
+                <img src="@Url.Content("~/product_images/" + product.product_image)" class="card-img-top" alt="@product.product_name">
+                <div class="card-body">
+                    <h5 class="card-title">@product.product_name</h5>
+                    <p class="card-text">Price: @product.product_price</p>
+                    <p class="card-text">Description: @product.product_description</p>
+
+                    <div class="d-flex justify-content-between">
+                        <form asp-action="AddToCart" method="post" class="d-inline">
+                            <input type="hidden" name="productId" value="@product.product_id" />
+                            <input type="hidden" name="customerId" value="1" />
+                            <button type="submit" class="btn btn-warning">Add to Cart</button>
+                        </form>
+                        <a asp-action="BuyNow" asp-controller="Admin" asp-route-id="@product.product_id" class="btn btn-primary">Buy Now</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    }
+</div> 

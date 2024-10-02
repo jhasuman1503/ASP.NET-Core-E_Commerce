@@ -1,0 +1,397 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\suman jha\\source\\repos\\E-Commerce-Website\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\E-Commerce-Website.bundle.scp.css",
+      "PackagePath": "staticwebassets\\E-Commerce-Website.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\suman jha\\source\\repos\\E-Commerce-Website\\wwwroot\\admin_image\\2024-04-03.png",
+      "PackagePath": "staticwebassets\\admin_image\\2024-04-03.png"
+    },
+    {
+      "Id": "C:\\Users\\suman jha\\source\\repos\\E-Commerce-Website\\wwwroot\\admin_image\\clint-mckoy-AnBKV3nlIZg-unsplash.jpg",
+      "PackagePath": "staticwebassets\\admin_image\\clint-mckoy-AnBKV3nlIZg-unsplash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\suman jha\\source\\repos\\E-Commerce-Website\\wwwroot\\admin_image\\cover letter sample.png",
+      "PackagePath": "staticwebassets\\admin_image\\cover letter sample.png"
+    },
+    {
+      "Id": "C:\\Users\\suman jha\\source\\repos\\E-Commerce-Website\\wwwroot\\admin_image\\suman photo.jpg",
+      "PackagePath": "staticwebassets\\admin_image\\suman photo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\suman jha\\source\\repos\\E-Commerce-Website\\wwwroot\\admin_image\\suman.jpeg.png",
+      "PackagePath": "staticwebassets\\admin_image\\suman.jpeg.png"
+    },
+    {
+      "Id": "C:\\Users\\suman jha\\source\\repos\\E-Commerce-Website\\wwwroot\\assets\\img1stv.jpg",
+      "PackagePath": "staticwebassets\\assets\\img1stv.jpg"
+    },
+    {
+      "Id": "C:\\Users\\suman jha\\source\\repos\\E-Commerce-Website\\wwwroot\\assets\\img2slaptop.jpg",
+      "PackagePath": "staticwebassets\\assets\\img2slaptop.jpg"
+    },
+    {
+      "Id": "C:\\Users\\suman jha\\source\\repos\\E-Commerce-Website\\wwwroot\\assets\\img3sphone.jpg",
+      "PackagePath": "staticwebassets\\assets\\img3sphone.jpg"
+    },
+    {
+      "Id": "C:\\Users\\suman jha\\source\\repos\\E-Commerce-Website\\wwwroot\\css\\styles.css",
+      "PackagePath": "staticwebassets\\css\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\suman jha\\source\\repos\\E-Commerce-Website\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\suman jha\\source\\repos\\E-Commerce-Website\\wwwroot\\js\\datatables-simple-demo.js",
+      "PackagePath": "staticwebassets\\js\\datatables-simple-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\suman jha\\source\\repos\\E-Commerce-Website\\wwwroot\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\js\\scripts.js"
+    },
+    {
+      "Id": "C:\\Users\\suman jha\\source\\repos\\E-Commerce-Website\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\suman jha\\source\\repos\\E-Commerce-Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\suman jha\\source\\repos\\E-Commerce-Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\suman jha\\source\\repos\\E-Commerce-Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\suman jha\\source\\repos\\E-Commerce-Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\suman jha\\source\\repos\\E-Commerce-Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\suman jha\\source\\repos\\E-Commerce-Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\suman jha\\source\\repos\\E-Commerce-Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\suman jha\\source\\repos\\E-Commerce-Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\suman jha\\source\\repos\\E-Commerce-Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\suman jha\\source\\repos\\E-Commerce-Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\suman jha\\source\\repos\\E-Commerce-Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\suman jha\\source\\repos\\E-Commerce-Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\suman jha\\source\\repos\\E-Commerce-Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\suman jha\\source\\repos\\E-Commerce-Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\suman jha\\source\\repos\\E-Commerce-Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\suman jha\\source\\repos\\E-Commerce-Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\suman jha\\source\\repos\\E-Commerce-Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\suman jha\\source\\repos\\E-Commerce-Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\suman jha\\source\\repos\\E-Commerce-Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\suman jha\\source\\repos\\E-Commerce-Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\suman jha\\source\\repos\\E-Commerce-Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\suman jha\\source\\repos\\E-Commerce-Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\suman jha\\source\\repos\\E-Commerce-Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\suman jha\\source\\repos\\E-Commerce-Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\suman jha\\source\\repos\\E-Commerce-Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\suman jha\\source\\repos\\E-Commerce-Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\suman jha\\source\\repos\\E-Commerce-Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\suman jha\\source\\repos\\E-Commerce-Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\suman jha\\source\\repos\\E-Commerce-Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\suman jha\\source\\repos\\E-Commerce-Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\suman jha\\source\\repos\\E-Commerce-Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\suman jha\\source\\repos\\E-Commerce-Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\suman jha\\source\\repos\\E-Commerce-Website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\suman jha\\source\\repos\\E-Commerce-Website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\suman jha\\source\\repos\\E-Commerce-Website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\suman jha\\source\\repos\\E-Commerce-Website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\suman jha\\source\\repos\\E-Commerce-Website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\suman jha\\source\\repos\\E-Commerce-Website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\suman jha\\source\\repos\\E-Commerce-Website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\suman jha\\source\\repos\\E-Commerce-Website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\suman jha\\source\\repos\\E-Commerce-Website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\suman jha\\source\\repos\\E-Commerce-Website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\suman jha\\source\\repos\\E-Commerce-Website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\suman jha\\source\\repos\\E-Commerce-Website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\suman jha\\source\\repos\\E-Commerce-Website\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\suman jha\\source\\repos\\E-Commerce-Website\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\suman jha\\source\\repos\\E-Commerce-Website\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\suman jha\\source\\repos\\E-Commerce-Website\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\suman jha\\source\\repos\\E-Commerce-Website\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\suman jha\\source\\repos\\E-Commerce-Website\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\suman jha\\source\\repos\\E-Commerce-Website\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\suman jha\\source\\repos\\E-Commerce-Website\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\suman jha\\source\\repos\\E-Commerce-Website\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\suman jha\\source\\repos\\E-Commerce-Website\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\suman jha\\source\\repos\\E-Commerce-Website\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\suman jha\\source\\repos\\E-Commerce-Website\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\suman jha\\source\\repos\\E-Commerce-Website\\wwwroot\\product_images\\alicia-christin-gerald-Gbca2AoIbHM-unsplash.jpg",
+      "PackagePath": "staticwebassets\\product_images\\alicia-christin-gerald-Gbca2AoIbHM-unsplash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\suman jha\\source\\repos\\E-Commerce-Website\\wwwroot\\product_images\\anne-nygard-yPJeQRCeOdk-unsplash.jpg",
+      "PackagePath": "staticwebassets\\product_images\\anne-nygard-yPJeQRCeOdk-unsplash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\suman jha\\source\\repos\\E-Commerce-Website\\wwwroot\\product_images\\clint-mckoy-AnBKV3nlIZg-unsplash.jpg",
+      "PackagePath": "staticwebassets\\product_images\\clint-mckoy-AnBKV3nlIZg-unsplash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\suman jha\\source\\repos\\E-Commerce-Website\\wwwroot\\product_images\\fabrizio-frigeni-lcrZgpLTNvU-unsplash.jpg",
+      "PackagePath": "staticwebassets\\product_images\\fabrizio-frigeni-lcrZgpLTNvU-unsplash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\suman jha\\source\\repos\\E-Commerce-Website\\wwwroot\\product_images\\immo-wegmann-S-de8PboZmI-unsplash.jpg",
+      "PackagePath": "staticwebassets\\product_images\\immo-wegmann-S-de8PboZmI-unsplash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\suman jha\\source\\repos\\E-Commerce-Website\\wwwroot\\product_images\\jakub-zerdzicki-2ImPYrQmsWI-unsplash.jpg",
+      "PackagePath": "staticwebassets\\product_images\\jakub-zerdzicki-2ImPYrQmsWI-unsplash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\suman jha\\source\\repos\\E-Commerce-Website\\wwwroot\\product_images\\jeff-sheldon-9dI3g8owHiI-unsplash.jpg",
+      "PackagePath": "staticwebassets\\product_images\\jeff-sheldon-9dI3g8owHiI-unsplash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\suman jha\\source\\repos\\E-Commerce-Website\\wwwroot\\product_images\\jens-kreuter-PKnn-nXCNhs-unsplash.jpg",
+      "PackagePath": "staticwebassets\\product_images\\jens-kreuter-PKnn-nXCNhs-unsplash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\suman jha\\source\\repos\\E-Commerce-Website\\wwwroot\\product_images\\kier-in-sight-archives-8_vsMfNpnL8-unsplash.jpg",
+      "PackagePath": "staticwebassets\\product_images\\kier-in-sight-archives-8_vsMfNpnL8-unsplash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\suman jha\\source\\repos\\E-Commerce-Website\\wwwroot\\product_images\\lars-blankers-B0s3Xndk6tw-unsplash.jpg",
+      "PackagePath": "staticwebassets\\product_images\\lars-blankers-B0s3Xndk6tw-unsplash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\suman jha\\source\\repos\\E-Commerce-Website\\wwwroot\\product_images\\markus-spiske-s05XKB6jK2c-unsplash.jpg",
+      "PackagePath": "staticwebassets\\product_images\\markus-spiske-s05XKB6jK2c-unsplash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\suman jha\\source\\repos\\E-Commerce-Website\\wwwroot\\product_images\\matthew-pilachowski-w1eAFyBLhLM-unsplash.jpg",
+      "PackagePath": "staticwebassets\\product_images\\matthew-pilachowski-w1eAFyBLhLM-unsplash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\suman jha\\source\\repos\\E-Commerce-Website\\wwwroot\\product_images\\nubelson-fernandes-AzHPen-cymc-unsplash.jpg",
+      "PackagePath": "staticwebassets\\product_images\\nubelson-fernandes-AzHPen-cymc-unsplash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\suman jha\\source\\repos\\E-Commerce-Website\\wwwroot\\product_images\\pille-r-priske-xmuIgjuQG0M-unsplash.jpg",
+      "PackagePath": "staticwebassets\\product_images\\pille-r-priske-xmuIgjuQG0M-unsplash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\suman jha\\source\\repos\\E-Commerce-Website\\wwwroot\\product_images\\rasa-kasparaviciene-s23ERZ7SlMw-unsplash.jpg",
+      "PackagePath": "staticwebassets\\product_images\\rasa-kasparaviciene-s23ERZ7SlMw-unsplash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\suman jha\\source\\repos\\E-Commerce-Website\\wwwroot\\product_images\\ravi-sharma-RnW1taVZqm8-unsplash.jpg",
+      "PackagePath": "staticwebassets\\product_images\\ravi-sharma-RnW1taVZqm8-unsplash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\suman jha\\source\\repos\\E-Commerce-Website\\wwwroot\\product_images\\ryoji-hayasaka-gkbAYJIMVDA-unsplash.jpg",
+      "PackagePath": "staticwebassets\\product_images\\ryoji-hayasaka-gkbAYJIMVDA-unsplash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\suman jha\\source\\repos\\E-Commerce-Website\\wwwroot\\product_images\\saif71-com-ypedT9JgDbQ-unsplash.jpg",
+      "PackagePath": "staticwebassets\\product_images\\saif71-com-ypedT9JgDbQ-unsplash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\suman jha\\source\\repos\\E-Commerce-Website\\wwwroot\\product_images\\saif71-com-zaykvAcGRks-unsplash.jpg",
+      "PackagePath": "staticwebassets\\product_images\\saif71-com-zaykvAcGRks-unsplash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\suman jha\\source\\repos\\E-Commerce-Website\\wwwroot\\product_images\\samiul-itm-MHi3XoipH6Q-unsplash.jpg",
+      "PackagePath": "staticwebassets\\product_images\\samiul-itm-MHi3XoipH6Q-unsplash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\suman jha\\source\\repos\\E-Commerce-Website\\wwwroot\\product_images\\superbike.jpg",
+      "PackagePath": "staticwebassets\\product_images\\superbike.jpg"
+    },
+    {
+      "Id": "C:\\Users\\suman jha\\source\\repos\\E-Commerce-Website\\wwwroot\\product_images\\surface-F4ottWBnCpM-unsplash.jpg",
+      "PackagePath": "staticwebassets\\product_images\\surface-F4ottWBnCpM-unsplash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\suman jha\\source\\repos\\E-Commerce-Website\\wwwroot\\product_images\\tom-hermans-2wsAcKw9_Qo-unsplash.jpg",
+      "PackagePath": "staticwebassets\\product_images\\tom-hermans-2wsAcKw9_Qo-unsplash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\suman jha\\source\\repos\\E-Commerce-Website\\wwwroot\\product_images\\vipul-borade-FvvgvCO-0gI-unsplash.jpg",
+      "PackagePath": "staticwebassets\\product_images\\vipul-borade-FvvgvCO-0gI-unsplash.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.E-Commerce-Website.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.E-Commerce-Website.props",
+      "PackagePath": "build\\E-Commerce-Website.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.E-Commerce-Website.props",
+      "PackagePath": "buildMultiTargeting\\E-Commerce-Website.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.E-Commerce-Website.props",
+      "PackagePath": "buildTransitive\\E-Commerce-Website.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

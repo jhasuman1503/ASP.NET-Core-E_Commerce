@@ -1,0 +1,54 @@
+﻿@model IEnumerable<E_Commerce_Website.Models.Cart>
+
+@{
+    ViewBag.Title = "View Cart";
+    var productDictionary = ViewBag.ProductDictionary as Dictionary<int, E_Commerce_Website.Models.Product>;
+}
+
+<div class="container">
+    <h1>Your Cart</h1>
+
+    @if (Model.Any())
+    {
+        <table class="table table-bordered">
+            <thead>
+                <tr>
+                    <th>Product Name</th>
+                    <th>Quantity</th>
+                    <th>Price</th>
+                    <th>Total</th>
+                    <th>Actions</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var cartItem in Model)
+                {
+                    var product = productDictionary.ContainsKey(cartItem.prod_id) ? productDictionary[cartItem.prod_id] : null;
+                    if (product != null)
+                    {
+                        <tr>
+                            <td>@product.product_name</td>
+                            <td>@cartItem.product_quantity</td>
+                            <td>@product.product_price</td>
+                            <td>@(decimal.Parse(product.product_price) * cartItem.product_quantity)</td>
+                            <td>
+                                <form asp-action="RemoveFromCart" method="post">
+                                    <input type="hidden" name="cartId" value="@cartItem.cart_id" />
+                                    <button type="submit" class="btn btn-danger">Remove</button>
+                                </form>
+                                <form asp-action="BuyNow" method="post" class="mt-2">
+                                    <input type="hidden" name="cartId" value="@cartItem.cart_id" />
+                                    <button type="submit" class="btn btn-primary">Buy Now</button>
+                                </form>
+                            </td>
+                        </tr>
+                    }
+                }
+            </tbody>
+        </table>
+    }
+    else
+    {
+        <p>Your cart is empty.</p>
+    }
+</div>

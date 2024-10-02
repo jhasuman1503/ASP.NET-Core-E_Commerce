@@ -1,0 +1,23 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    @* <title>Customer Dashboard</title> *@
+    <link href="~/css/styles.css" rel="stylesheet" />
+</head>
+<body>
+    <header>
+        <nav>
+            <a href="@Url.Action("Home", "Customer")">Home</a>
+            <a href="@Url.Action("ViewCart", "Customer")">Cart</a>
+            <a href="@Url.Action("Orders", "Customer")">Orders</a>
+            <a href="@Url.Action("Profile", "Customer")">Profile</a>
+        </nav>
+    </header>
+    <main>
+        @RenderBody()
+    </main>
+    <footer>
+        <p>© 2024 Shopping Cart</p>
+    </footer>
+</body>
+</html>

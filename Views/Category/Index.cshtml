@@ -1,0 +1,23 @@
+﻿@model IEnumerable<E_Commerce_Website.Models.Category>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Categories</title>
+    <link rel="stylesheet" href="~/css/style.css">
+</head>
+<body>
+    <h1>Select a Category</h1>
+    <div class="category-list">
+        @foreach (var category in Model)
+        {
+            <div class="category-item">
+                <a href="@Url.Action("Products", "Category", new { categoryId = category.category_id })">
+                    @category.category_name
+                </a>
+            </div>
+        }
+    </div>
+</body>
+</html>
